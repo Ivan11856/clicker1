@@ -1,0 +1,18 @@
+.clicker{
+	width: 200px;
+	height: 200px;
+	border: none;
+	outline: none;
+	background-color: crimson;
+	color: #232323;
+	border-radius: 50%;
+}
+.upgrade{
+	width: 200px;
+	height: 200px;
+	border: none;
+	outline: none;
+	background-color: orange;
+	color: #232323;
+	border-radius: 50%;
+}
